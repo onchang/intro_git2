@@ -2,3 +2,4 @@ Git training
 初歩的なことが学べます
 git add. 
 git commit
+git rm
